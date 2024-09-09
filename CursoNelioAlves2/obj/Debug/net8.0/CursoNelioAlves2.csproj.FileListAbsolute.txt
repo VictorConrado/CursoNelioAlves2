@@ -1,0 +1,14 @@
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.AssemblyInfoInputs.cache
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.AssemblyInfo.cs
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\bin\Debug\net8.0\CursoNelioAlves2.exe
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\bin\Debug\net8.0\CursoNelioAlves2.deps.json
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\bin\Debug\net8.0\CursoNelioAlves2.runtimeconfig.json
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\bin\Debug\net8.0\CursoNelioAlves2.dll
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\bin\Debug\net8.0\CursoNelioAlves2.pdb
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.dll
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\refint\CursoNelioAlves2.dll
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.pdb
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.genruntimeconfig.cache
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\ref\CursoNelioAlves2.dll
