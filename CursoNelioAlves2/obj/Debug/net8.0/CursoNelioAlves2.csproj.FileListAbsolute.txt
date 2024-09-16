@@ -12,3 +12,4 @@ C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\
 C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.pdb
 C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.genruntimeconfig.cache
 C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\ref\CursoNelioAlves2.dll
+C:\Users\VICTOR\source\repos\CursoNelioAlves2\CursoNelioAlves2\obj\Debug\net8.0\CursoNelioAlves2.sourcelink.json

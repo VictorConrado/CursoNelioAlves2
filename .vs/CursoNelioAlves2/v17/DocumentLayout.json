@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|solutionrelative:cursonelioalves2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|c:\\users\\victor\\source\\repos\\cursonelioalves2\\cursonelioalves2\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|solutionrelative:cursonelioalves2\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|c:\\users\\victor\\source\\repos\\cursonelioalves2\\cursonelioalves2\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|solutionrelative:cursonelioalves2\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|c:\\users\\victor\\source\\repos\\cursonelioalves2\\cursonelioalves2\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|solutionrelative:cursonelioalves2\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|c:\\users\\victor\\source\\repos\\cursonelioalves2\\cursonelioalves2\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83EAFFFE-ED0A-425D-A8CF-EB168E46F4E0}|CursoNelioAlves2\\CursoNelioAlves2.csproj|solutionrelative:cursonelioalves2\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SavingAccount.cs",
               "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\CursoNelioAlves2\\CursoNelioAlves2\\Entities\\SavingAccount.cs",
               "RelativeDocumentMoniker": "CursoNelioAlves2\\Entities\\SavingAccount.cs",
               "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\CursoNelioAlves2\\CursoNelioAlves2\\Entities\\SavingAccount.cs",
               "RelativeToolTip": "CursoNelioAlves2\\Entities\\SavingAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T00:46:21.548Z",
               "EditorCaption": ""
@@ -49,14 +49,14 @@
               "RelativeDocumentMoniker": "CursoNelioAlves2\\Program.cs",
               "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\CursoNelioAlves2\\CursoNelioAlves2\\Program.cs",
               "RelativeToolTip": "CursoNelioAlves2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T01:49:43.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BusinessAccount.cs",
               "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\CursoNelioAlves2\\CursoNelioAlves2\\Entities\\BusinessAccount.cs",
               "RelativeDocumentMoniker": "CursoNelioAlves2\\Entities\\BusinessAccount.cs",
@@ -69,15 +69,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\CursoNelioAlves2\\CursoNelioAlves2\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "CursoNelioAlves2\\Entities\\Account.cs",
               "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\CursoNelioAlves2\\CursoNelioAlves2\\Entities\\Account.cs",
               "RelativeToolTip": "CursoNelioAlves2\\Entities\\Account.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA6wAsAAAAsAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T01:54:45.547Z"
+              "WhenOpened": "2024-09-08T01:54:45.547Z",
+              "EditorCaption": ""
             }
           ]
         }
