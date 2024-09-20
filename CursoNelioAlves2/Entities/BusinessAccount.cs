@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoNelioAlves2.Entities
 {
-    internal class BusinessAccount : Account
+    internal sealed class BusinessAccount : Account
     {
         public double LoanLimit { get; set; }
 

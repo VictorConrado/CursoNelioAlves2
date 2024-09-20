@@ -22,7 +22,7 @@ namespace CursoNelioAlves2.Entities
             Balance += Balance * InterestRate;
         }
 
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)
         {
             Balance -= amount;
         }
